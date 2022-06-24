@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TimClavan
-- 👀 I’m interested in ...C#/ Azure/ Cloud/ Testing/ Test automation/ Cypress/ Application Developement
+- 👀 I’m interested in ...C#/ Azure/ Cloud/ Testing/ Test automation/ Cypress/ Application Developement/ EF framework
 - 🌱 I’m currently learning ...c# / Application Developement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email: tim.clavan@gmail.com
